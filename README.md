@@ -1,29 +1,11 @@
-# cdtheque
+# TP VueJS Code.BZH CDThèque
 
-## Project setup
-```
-npm install
-```
+## Installation
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+$ git clone https://github.com/adrienqui/-code.bzh-exercice_cdtheque.git
+$ cd ./-code.bzh-exercice_cdtheque/
+$ npm i
+$ node server/main.js
+$ npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
